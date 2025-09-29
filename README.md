@@ -42,6 +42,8 @@ ArrayDeque<Truck> truckQueue — to store trucks (FIFO)
 
 
 Behavior:
+
+
 • [1] Store item
 Ask for code, name, and quantity
 Push it to the top of the warehouseStack
@@ -56,6 +58,7 @@ C103 | Soap Box           | qty=50
 C102 | Water Bottle Pack  | qty=10
 C101 | Rice Sack           | qty=20
 ← BOTTOM
+
 
 • [3] Register arriving truck
 Ask for plate and driver
